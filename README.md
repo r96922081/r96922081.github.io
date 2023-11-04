@@ -6,7 +6,7 @@
 
 ![](https://r96922081.github.io/images/countdown1.png)
 
-# Cron (Java) [code](https://github.com/r96922081/Toy-Projects/tree/main/SnakeGame)
+# [Cron (Java)](https://github.com/r96922081/Toy-Projects/tree/main/Cron)
 
 Usage: 
 ![](https://r96922081.github.io/images/cron1.png)
@@ -15,5 +15,5 @@ Result:
 ![](https://r96922081.github.io/images/cron2.png)
 
 
-# Snake [code](https://github.com/r96922081/Toy-Projects/tree/main/SnakeGame)
+# [Snake](https://github.com/r96922081/Toy-Projects/tree/main/SnakeGame)
 ![](https://r96922081.github.io/images/snake.png)
