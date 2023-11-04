@@ -6,7 +6,7 @@
 
 ![](https://r96922081.github.io/images/countdown1.png)
 
-# [Cron (Java)](https://github.com/r96922081/Toy-Projects/tree/main/Cron)
+# [Cron (Java)](https://github.com/r96922081/Toy-Projects/tree/main/CronJob)
 
 Usage: 
 ![](https://r96922081.github.io/images/cron1.png)
