@@ -234,7 +234,7 @@ func main() {
 
 	outputFilePath := "my_modules/generated_defs.ts"
 	targetFolder := "pages"
-	landscapesFolder := "pages/_welcome"
+	landscapesFolder := "pages/welcome"
 	ut := false
 
 	changeVariableIfDebugging(&outputFilePath, &targetFolder, &landscapesFolder, &ut)

@@ -96,7 +96,7 @@ function init_me_title_item()
 
       var me_nav_item = new collapse_menu.NavItem("welcome", "", "")
 
-      var nav_item = new collapse_menu.NavItem('Welcome', "nav_item_div", "pages/_welcome/welcome.html")
+      var nav_item = new collapse_menu.NavItem('Welcome', "nav_item_div", "pages/welcome/welcome.html")
       me_nav_item.append_child(nav_item)
 
       collapse_menu.add_top_nav_item(me_nav_item)    
