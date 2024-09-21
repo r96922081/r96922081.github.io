@@ -1,1 +1,5 @@
-Hi, it's r96922081's repository
+This repo is used to put my homepage and images of other repo's Readme.md
+
+https://r96922081.github.io/my_static_page.html
+
+![](https://r96922081.github.io/myweb/homepage.png)
