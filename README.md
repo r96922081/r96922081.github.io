@@ -1,5 +1,5 @@
-This repo is used to put my homepage and images of other repo's Readme.md
+My homepage and images of Readme.md
 
-https://r96922081.github.io/my_static_page.html
+https://r96922081.github.io/index.html
 
-![](https://r96922081.github.io/myweb/homepage.png)
+![](https://r96922081.github.io/images/myweb/homepage.png)
